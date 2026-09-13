@@ -1,3 +1,3 @@
-git remote add origin https://github.com/Prathamesh13-n/React.git
-git branch -M main
-git push -u origin main
+git add .
+git commit -m "Added new React project"
+git push
